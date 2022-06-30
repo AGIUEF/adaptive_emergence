@@ -1,4 +1,3 @@
-release: python manager.py makemigrations
 release: python manage.py migrate
 
 
